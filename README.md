@@ -1,2 +1,4 @@
 # MyProject
-java based code 
+java based code
+this is my first project
+
